@@ -1,2 +1,15 @@
 transformers>=4.40.0
 torch
+
+
+Example Prompt
+Prompt: "Explain black holes to a 12-year-old"
+Output: "Black holes are super strong invisible spots in space where gravity is so powerful that nothing, not even light, can escape."
+
+
+Credits
+Model: microsoft/phi-3-mini-4k-instruct
+
+Libraries: Hugging Face Transformers, PyTorch.
+
+
